@@ -15,4 +15,4 @@ Bu proje ile Netflix clone sayfası oluşturulmuş ve film verilerinin alınarak
 
 ## GIF
 
-![netflix-clone]()
+![netflix-clone](./src/assets/netflix.gif)
